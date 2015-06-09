@@ -1,0 +1,46 @@
+[22-May-2015 06:01:23 America/Chicago] PHP Warning:  unpack(): Type N: not enough input, need 4, have 0 in /home3/codebrew/public_html/projects/lockdown/easyapns/classes/class_APNS.php on line 581
+[22-May-2015 06:01:23 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home3/codebrew/public_html/projects/lockdown/easyapns/classes/class_APNS.php on line 581
+[26-May-2015 05:34:22 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 120
+[26-May-2015 05:34:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:41:53 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 121
+[26-May-2015 05:41:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:50:27 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 121
+[26-May-2015 05:50:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:50:59 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 05:50:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:51:54 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 124
+[26-May-2015 05:51:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:52:31 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 124
+[26-May-2015 05:52:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:52:40 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 124
+[26-May-2015 05:52:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:52:58 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 124
+[26-May-2015 05:52:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:53:51 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 124
+[26-May-2015 05:53:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:54:14 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 124
+[26-May-2015 05:54:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:55:17 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 05:55:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:56:29 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 05:56:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:56:52 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 05:56:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:57:04 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 05:57:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:57:18 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 05:57:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:57:19 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 05:57:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 05:59:02 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 05:59:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 06:00:45 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 06:00:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 06:01:51 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 06:01:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 06:02:29 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 06:02:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 06:04:15 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 06:04:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[26-May-2015 06:05:07 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/api/request_lockdown.php on line 123
+[26-May-2015 06:05:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86

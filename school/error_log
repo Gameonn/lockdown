@@ -1,0 +1,82 @@
+[03-Apr-2015 05:43:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/functions.php:68) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 89
+[27-Apr-2015 08:03:04 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/codebrew/public_html/projects/lockdown/school/lockdown.php on line 110
+[27-Apr-2015 08:16:13 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/codebrew/public_html/projects/lockdown/school/lockdown.php on line 113
+[28-Apr-2015 01:12:23 America/Chicago] PHP Fatal error:  Missing Production Certificate.
+
+	1) ::require_once -> File: update_status.php (line 6)
+	2) APNS::__construct -> File: apns.php (line 50)
+	3) APNS::checkSetup -> File: class_APNS.php (line 218)
+	4) APNS::_triggerError -> File: class_APNS.php (line 277)
+
+ in /home3/codebrew/public_html/projects/lockdown/easyapns/classes/class_APNS.php on line 703
+[28-Apr-2015 01:13:00 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 167
+[28-Apr-2015 01:13:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[28-Apr-2015 01:13:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:256) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 202
+[28-Apr-2015 01:20:42 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 79
+[28-Apr-2015 01:23:44 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 79
+[28-Apr-2015 01:24:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:285) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 205
+[28-Apr-2015 01:26:10 America/Chicago] PHP Notice:  Undefined variable: school_id in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 151
+[28-Apr-2015 01:26:10 America/Chicago] PHP Notice:  Undefined variable: cellphone in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 171
+[28-Apr-2015 01:26:10 America/Chicago] PHP Notice:  Undefined variable: names in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 171
+[28-Apr-2015 01:26:10 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 171
+[28-Apr-2015 01:26:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/api/DataClass.php on line 86
+[28-Apr-2015 01:26:10 America/Chicago] PHP Notice:  Undefined variable: success in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 206
+[28-Apr-2015 01:26:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:285) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 206
+[28-Apr-2015 01:27:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:285) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 207
+[28-Apr-2015 02:35:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/school/pictures1.php on line 75
+[28-Apr-2015 02:48:27 America/Chicago] PHP Notice:  Undefined variable: success in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 207
+[28-Apr-2015 02:48:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:312) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 207
+[28-Apr-2015 02:50:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:312) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 207
+[28-Apr-2015 02:50:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:312) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 207
+[28-Apr-2015 02:56:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:312) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 207
+[28-Apr-2015 02:58:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:312) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 208
+[28-Apr-2015 02:59:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$add' (T_VARIABLE), expecting ',' or ';' in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 207
+[28-Apr-2015 03:00:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 207
+[28-Apr-2015 04:13:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:312) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 208
+[28-Apr-2015 04:16:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:312) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 208
+[28-Apr-2015 04:19:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/api/DataClass.php:312) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 207
+[28-Apr-2015 04:33:24 America/Chicago] PHP Fatal error:  Call to undefined function sendEmail() in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 230
+[28-Apr-2015 06:24:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ',' or ';' in /home3/codebrew/public_html/projects/lockdown/school/lockdown_pictures.php on line 94
+[29-Apr-2015 01:57:42 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home3/codebrew/public_html/projects/lockdown/school/users.php on line 19
+[29-Apr-2015 17:48:39 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(33).
+
+	1) APNS::processQueue -> File: update_status.php (line 242)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/lockdown/easyapns/classes/class_APNS.php on line 703
+[29-Apr-2015 17:48:39 America/Chicago] PHP Fatal error:  APNS responded with error for pid(33). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: update_status.php (line 242)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/lockdown/easyapns/classes/class_APNS.php on line 703
+[29-Apr-2015 21:36:43 America/Chicago] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 300
+[29-Apr-2015 21:36:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 56
+[29-Apr-2015 21:36:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/update_status.php:300) in /home3/codebrew/public_html/projects/lockdown/school/update_status.php on line 334
+[30-Apr-2015 09:31:09 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/codebrew/public_html/projects/lockdown/php_include/school_header.php on line 3
+[03-May-2015 23:47:46 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 388
+[03-May-2015 23:53:36 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 388
+[04-May-2015 07:02:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/functions.php:395) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 418
+[04-May-2015 07:10:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/functions.php:396) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 428
+[04-May-2015 07:10:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/functions.php:405) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 428
+[04-May-2015 07:11:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/functions.php:403) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 426
+[04-May-2015 07:11:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/functions.php:403) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 426
+[04-May-2015 07:13:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$b2' (T_VARIABLE) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 389
+[04-May-2015 07:15:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/functions.php:405) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 430
+[04-May-2015 07:31:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/functions.php:396) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 430
+[04-May-2015 08:06:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 393
+[04-May-2015 08:06:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/functions.php:402) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 427
+[04-May-2015 08:32:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/functions.php:397) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 423
+[04-May-2015 08:34:07 America/Chicago] PHP Fatal error:  Function name must be a string in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 390
+[04-May-2015 08:42:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/lockdown/school/functions.php:390) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 424
+[04-May-2015 08:46:47 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 428
+[08-May-2015 02:42:52 America/Chicago] PHP Fatal error:  Class 'DbConnect' not found in /home3/codebrew/public_html/projects/lockdown/easyapns/apns.php on line 43
+[08-May-2015 02:46:36 America/Chicago] PHP Fatal error:  Class 'DbConnect' not found in /home3/codebrew/public_html/projects/lockdown/easyapns/apns.php on line 43
+[09-May-2015 06:45:04 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home3/codebrew/public_html/projects/lockdown/school/edit_user.php on line 147
+[19-May-2015 23:57:35 America/Chicago] PHP Fatal error:  Call to a member function bindValue() on a non-object in /home3/codebrew/public_html/projects/lockdown/school/functions.php on line 550

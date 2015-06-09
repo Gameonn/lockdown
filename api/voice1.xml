@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?>  <Response>  <Say>Hello Police</Say>  <Say voice="alice" language="en-GB" loop="2">There is a lockdown in our school ABC International  </Say>  <Say voice="alice" language="en-GB" loop="2"> Our addess isHouse 41,sector 41A Chandigarh and city Chandigarh </Say>   </Response> 
